@@ -1,3 +1,8 @@
+ //   _   _   _   _   _   _   _   _   _   _   _   _
+ //  / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \
+ // ( F | a | c | t | o | r | O | u | t | p | u | t )
+ //  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
+
 class FactorOutput{
    public static void main(String[] args) {
      int N = Integer.parseInt(args[0]); //selected number
