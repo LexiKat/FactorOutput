@@ -1,6 +1,6 @@
 class FactorOutput{
    public static void main(String[] args) {
-     int N = 1000; //selected number
+     int N = Integer.parseInt(args[0]); //selected number
      int[] Array = new int[N];  //creates an array from 0-N for sample size
      for(int i = 0; i < Array.length; i++)
        Array[i] = i;
